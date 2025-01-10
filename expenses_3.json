@@ -1,0 +1,37 @@
+{
+    "Date": [
+        "2025-01-01",
+        "2025-01-02",
+        null,
+        "2025-01-04",
+        "2025-01-05"
+    ],
+    "Category": [
+        "Food",
+        "Travel",
+        "Utilities",
+        null,
+        "Entertainment"
+    ],
+    "Amount": [
+        15.5,
+        null,
+        75.3,
+        20.0,
+        "30"
+    ],
+    "Description": [
+        "Lunch at a cafe",
+        "Taxi to work",
+        null,
+        "Dinner at a restaurant",
+        "Movie tickets"
+    ],
+    "Payment Method": [
+        "Cash",
+        null,
+        "Bank Transfer",
+        "Cash",
+        null
+    ]
+}

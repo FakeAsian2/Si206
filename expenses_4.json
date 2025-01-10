@@ -1,0 +1,50 @@
+{
+    "Date": [
+        "2025-01-01",
+        "2025/01/01",
+        "25-01-03",
+        "2025-01-04",
+        "2025-01-05",
+        null
+    ],
+    "Category": [
+        "Food",
+        "Fod",
+        "Utilities",
+        "Utillties",
+        "Entertainment",
+        null
+    ],
+    "Amount": [
+        15.5,
+        "15.5",
+        75.3,
+        "twenty",
+        null,
+        null
+    ],
+    "Description": [
+        "Lunch at a cafe",
+        "Lunch duplicate",
+        null,
+        "Dinner duplicate",
+        "Movie",
+        "Unknown"
+    ],
+    "Payment Method": [
+        "Cash",
+        "Cash",
+        "Bank",
+        null,
+        "Card",
+        null
+    ],
+    "Extra Column": [
+        null,
+        "Irrelevant Data",
+        null,
+        null,
+        null,
+        "Extra"
+    ]
+}
